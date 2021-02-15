@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">lab11</string>
+    <string name="article">
+        <h2>About Us</h2>
+        <br></br><br></br>
+        <b><i>Unknowns of race, ethnicity in COVID-19 vaccine data mean it’s unclear who’s receiving shots as experts praise Tennessee’s plan</i></b>
+        <br></br><br></br> While Tennessee’s COVID-19 vaccination plan has been praised for being
+        among the first in the U.S. to incorporate social inequities as a
+        consideration for distribution, the data collected by the state on
+        demographics and ethnicity of the recipients – data which could help
+        indicate success of this planning factor – was incomplete.
+        <br></br>
+        The data collected in the first month of vaccination shows that 44% of
+        the administered doses didn’t specify the race of the patient and 31%
+        didn’t mention the ethnicity, according to the state’s health department.
+        Even though Tennessee said it was working on the problem, it’s not
+        releasing county-level demographic data about who is getting the vaccine.
+        <br></br><br></br>
+
+         <b><i> ‘‘I have to provide’: How these California moms are making it through the pandemic’</i></b>
+        <br></br><br></br> aying for college textbooks, finding someone to drive her 86-year-old mother to errands, making sure bills are paid on time: These are just a few of the challenges for single mother Silvia Alvarenga who provides for her family through her real estate brokerage, part of an industry hit hard by the pandemic. A recent UC Davis survey of 70 Latina mothers found that more than half said that the pandemic has caused them financial hardship.
+        <br></br><br></br>
+
+    </string>
+</resources>
